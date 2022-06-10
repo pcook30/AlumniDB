@@ -1,4 +1,4 @@
-Create TABLE alumni_table(
+Create TABLE employment_table(
     employmentID int NOT NULL,
     alumniID int NOT NULL,
     company char(50) NOT NULL,
